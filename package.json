@@ -4,8 +4,9 @@
   "description": "A blog template using the Eleventy site generator.",
   "type": "module",
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve --port 3000 && npx tailwindcss -i ./src/css/styles.css -o ./public/style.out.css --watch",
-    "build": "npx @11ty/eleventy && npx tailwindcss -i ./src/css/styles.css -o ./style.out.css --minify"
+    "dev": "npx @11ty/eleventy --serve --port 3000",
+    "dev:tailwind": "tailwindcss -i ./src/css/styles.css -o ./public/output.css --watch",
+    "build": "npx @11ty/eleventy && tailwindcss -i ./src/css/styles.css -o ./public/output.css"
   },
   "engines": {
     "node": ">=18"
@@ -14,6 +15,8 @@
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-img": "^5.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "@stackbit/cms-git": "^1.0.17",
+    "@stackbit/types": "^2.1.9",
     "@tailwindcss/typography": "^0.5.15",
     "@types/markdown-it": "^14.1.2",
     "cross-env": "^7.0.3",
