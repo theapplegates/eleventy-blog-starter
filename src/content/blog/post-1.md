@@ -13,6 +13,26 @@ As a UI designer with a passion for minimal and brutalist design, I’m always o
 ### Why Eleventy?
 
 <img src="/images/raonoilwnfthw8k3bkpd.jpg" alt="Christmas Dreams">
+<style>
+  .credit-container {
+    font-size: 10px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .icon {
+    width: 1em;
+    height: 1em;
+    margin-left: 0.25em;
+  }
+</style>
+<p class="credit-container">
+  <em>Photo by <a href="https://unsplash.com/photos/a-person-in-a-red-coat-looking-at-a-christmas-tree-VjxDMq6pt8M?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash">Maksym Mazur</a> on</em>
+  <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+    <path d="M448,230.17V480H0V230.17H141.13V355.09H306.87V230.17ZM306.87,32H141.13V156.91H306.87Z"/>
+  </svg>
+</p>
 
 Eleventy (or 11ty) is a simple yet powerful static site generator. It takes plain text files (like Markdown, HTML, or Nunjucks) and transforms them into a fully static website. It’s minimal, fast, and highly customizable — a perfect fit for those of us who appreciate clean, no-frills design.
 

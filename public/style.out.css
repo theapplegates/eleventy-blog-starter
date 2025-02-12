@@ -80,6 +80,9 @@
 .uppercase {
   text-transform: uppercase;
 }
+.italic {
+  font-style: italic;
+}
 .no-underline {
   text-decoration-line: none;
 }
