@@ -4,7 +4,7 @@
   "description": "A blog template using the Eleventy site generator.",
   "type": "module",
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve --port 3000 && npx tailwindcss -i ./src/css/styles.css -o ./public/style.out.css --watch",
+    "dev": "npx @11ty/eleventy --serve --port 3000 && npx tailwindcss -i ./src/css/styles.css -o ./public/style.out.css",
     "build": "npx @tailwindcss/cli -i ./src/styles/style.css -o ./public/styles/style.css && eleventy"
   },
   "engines": {
