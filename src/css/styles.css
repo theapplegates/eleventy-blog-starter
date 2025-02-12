@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
@@ -152,9 +156,9 @@ html,
   -moz-tab-size: 4;
   /* 3 */
   -o-tab-size: 4;
-     tab-size: 4;
+	 tab-size: 4;
   /* 3 */
-  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: wotfardregular;
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -197,7 +201,7 @@ Add the correct text decoration in Chrome, Edge, and Safari.
 
 abbr:where([title]) {
   -webkit-text-decoration: underline dotted;
-          text-decoration: underline dotted;
+		  text-decoration: underline dotted;
 }
 
 /*
@@ -243,7 +247,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: wotfardlight;
   /* 1 */
   font-feature-settings: normal;
   /* 2 */
@@ -307,7 +311,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: inherit;
+  font-family: wotfardlight;
   /* 1 */
   font-feature-settings: inherit;
   /* 1 */
@@ -760,7 +764,7 @@ video {
 
 .prose :where(kbd):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   font-weight: 500;
-  font-family: inherit;
+  font-family: wotfardregular;
   color: var(--tw-prose-kbd);
   box-shadow: 0 0 0 1px rgb(var(--tw-prose-kbd-shadows) / 10%), 0 3px 0 rgb(var(--tw-prose-kbd-shadows) / 10%);
   font-size: 0.875em;
@@ -838,7 +842,7 @@ video {
   padding: 0;
   font-weight: inherit;
   color: inherit;
-  font-size: inherit;
+  font-size: wotfardlight;
   font-family: inherit;
   line-height: inherit;
 }
@@ -1501,12 +1505,12 @@ video {
 
 .gap-x-6 {
   -moz-column-gap: 1.5rem;
-       column-gap: 1.5rem;
+	   column-gap: 1.5rem;
 }
 
 .gap-x-8 {
   -moz-column-gap: 2rem;
-       column-gap: 2rem;
+	   column-gap: 2rem;
 }
 
 .gap-y-2 {
@@ -1554,7 +1558,7 @@ video {
 
 .object-cover {
   -o-object-fit: cover;
-     object-fit: cover;
+	 object-fit: cover;
 }
 
 .p-4 {
@@ -1725,56 +1729,56 @@ video {
 
 @media (min-width: 640px) {
   .sm\:mb-24 {
-    margin-bottom: 6rem;
+	margin-bottom: 6rem;
   }
 
   .sm\:mt-16 {
-    margin-top: 4rem;
+	margin-top: 4rem;
   }
 
   .sm\:flex-row {
-    flex-direction: row;
+	flex-direction: row;
   }
 
   .sm\:px-10 {
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
   }
 
   .sm\:px-8 {
-    padding-left: 2rem;
-    padding-right: 2rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
   }
 
   .sm\:py-16 {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
   }
 
   .sm\:py-5 {
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+	padding-top: 1.25rem;
+	padding-bottom: 1.25rem;
   }
 
   .sm\:pb-24 {
-    padding-bottom: 6rem;
+	padding-bottom: 6rem;
   }
 
   .sm\:pt-16 {
-    padding-top: 4rem;
+	padding-top: 4rem;
   }
 
   .sm\:text-left {
-    text-align: left;
+	text-align: left;
   }
 
   .sm\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
+	font-size: 1.5rem;
+	line-height: 2rem;
   }
 
   .sm\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
+	font-size: 2.25rem;
+	line-height: 2.5rem;
   }
 }
