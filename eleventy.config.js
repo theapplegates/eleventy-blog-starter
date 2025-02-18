@@ -51,7 +51,7 @@ export default async function (eleventyConfig) {
     // Output formats for each image.
     formats: ["avif", "webp", "auto"],
 
-    // widths: ["auto"],
+    widths: [320, 640, 750, 828, 1080, 1280, 1668, 2048, 2560, 3375],
 
     defaultAttributes: {
       // e.g. <img loading decoding> assigned on the HTML tag will override these values.

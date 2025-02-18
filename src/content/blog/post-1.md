@@ -12,6 +12,29 @@ As a UI designer with a passion for minimal and brutalist design, I’m always o
 
 ### Why Eleventy?
 
+<img src="/images/city-rain.jpg" alt="City Rain">
+<style>
+  .credit-container {
+    font-size: 10px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .icon {
+    width: 1em;
+    height: 1em;
+    margin-left: 0.25em;
+  }
+</style>
+<p class="credit-container">
+  <em>Photo by <a href="https://unsplash.com/photos/a-man-walking-across-a-street-holding-an-umbrella-MYjucYkrTUY?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash">Lerone Pieters</a> on</em>
+  <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+    <path d="M448,230.17V480H0V230.17H141.13V355.09H306.87V230.17ZM306.87,32H141.13V156.91H306.87Z"/>
+  </svg>
+</p>
+
+
 <img src="/images/raonoilwnfthw8k3bkpd.jpg" alt="Christmas Dreams">
 <style>
   .credit-container {
