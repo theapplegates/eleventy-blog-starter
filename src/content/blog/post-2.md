@@ -6,7 +6,7 @@ date: '2024-12-06'
 description: >-
   This is the default description for the blog post. Customize it to highlight
   your content!
-image: /images/post-2.jpg
+image: /images/post-2.avif
 ---
 
 As a UI designer who loves minimalist workflows and blazing-fast websites, Eleventy (also known as 11ty) has become one of my go-to tools for building static websites. It’s not just a static site generator — Eleventy’s power lies in its flexibility, speed, and ease of use. In this post, I’ll walk you through some of Eleventy’s standout features and why they’re so valuable for developers, designers, and content creators alike.

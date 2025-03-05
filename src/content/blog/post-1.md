@@ -12,7 +12,7 @@ As a UI designer with a passion for minimal and brutalist design, I’m always o
 
 ### Why Eleventy?
 
-<img src="/images/city-rain.jpg" alt="City Rain">
+<img src="/images/city-rain.avif" alt="City Rain">
 <style>
   .credit-container {
     font-size: 10px;
@@ -35,7 +35,7 @@ As a UI designer with a passion for minimal and brutalist design, I’m always o
 </p>
 
 
-<img src="/images/raonoilwnfthw8k3bkpd.jpg" alt="Christmas Dreams">
+<img src="/images/raonoilwnfthw8k3bkpd.avif" alt="Christmas Dreams">
 <style>
   .credit-container {
     font-size: 10px;

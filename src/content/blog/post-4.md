@@ -6,7 +6,7 @@ date: '2024-12-04'
 description: >-
   This is the default description for the blog post. Customize it to highlight
   your content!
-image: /images/post-4.jpg
+image: /images/post-4.avif
 ---
 
 In the world of web development, **CSS frameworks** have long been a go-to solution for speeding up the styling process, but in recent years, **Tailwind CSS** has emerged as a game-changer. Unlike traditional CSS frameworks, which provide pre-designed components and styles, Tailwind takes a different approach by offering a utility-first CSS framework. This means developers can create custom designs directly in their HTML with minimal effort. Let’s dive into why **Tailwind CSS** is becoming one of the most popular choices for web developers and designers alike.

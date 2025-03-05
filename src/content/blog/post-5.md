@@ -6,7 +6,7 @@ date: '2024-12-03'
 description: >-
   This is the default description for the blog post. Customize it to highlight
   your content!
-image: /images/post-5.jpg
+image: /images/post-5.avif
 ---
 
 A career in web development offers a dynamic and rewarding journey with plenty of opportunities for growth. Whether you’re just starting or aiming to become an expert, the path to success involves mastering core skills, gaining experience, and adapting to new technologies. Here's an overview of the web developer career path.

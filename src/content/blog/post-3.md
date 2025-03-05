@@ -6,7 +6,7 @@ date: '2024-12-05'
 description: >-
   This is the default description for the blog post. Customize it to highlight
   your content!
-image: /images/post-3.jpeg
+image: /images/post-3.avif
 ---
 
 Remote work has become the norm for many industries, but it's especially transformative for developers. Whether you're working solo on a project or part of a team, remote work offers unique benefits that can significantly improve productivity, work-life balance, and overall job satisfaction. As a UI designer and consultant, I’ve seen firsthand how remote work can reshape the work experience. In this post, we’ll explore the benefits of remote work for developers and why it’s here to stay.
