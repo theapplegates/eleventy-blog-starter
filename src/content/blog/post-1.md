@@ -9,6 +9,27 @@ description: >-
 image: /images/post-1.jpeg
 ---
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.  
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_limit,w_auto/dpr_auto/p04sxwky30jsbpoyurmh.jxl"  class="cld-responsive">
+<style>
+  .credit-container {
+    font-size: 10px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .icon {
+    width: 1em;
+    height: 1em;
+    margin-left: 0.25em;
+  }
+</style>
+<p class="credit-container">
+  <em>Photo by <a href="https://unsplash.com/photos/an-orange-cat-sits-on-a-reflective-floor-P_tpT-ee__s?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash">Tianlei Wu</a> on</em>
+  <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+    <path d="M448,230.17V480H0V230.17H141.13V355.09H306.87V230.17ZM306.87,32H141.13V156.91H306.87Z"/>
+  </svg>
+</p>
 
 ### Why Eleventy?
 
