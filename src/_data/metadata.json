@@ -13,8 +13,9 @@
             "url": "/blog"
         },
         {
-            "label": "Eleventy + Netlify ↗",
-            "url": "https://docs.netlify.com/frameworks/eleventy/"
+            "label": "Eleventy + Netlify ",
+            "url": "https://docs.netlify.com/frameworks/eleventy/",
+            "external": true
         }
     ],
     "hero": {

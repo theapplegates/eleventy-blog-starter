@@ -1,6 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./**/*.{html,js,njk,md}"],
+  content: [
+    "./src/_includes/**/*.{html,njk}", // Scan .njk and potentially .html files in _includes and subdirs
+    "./src/content/**/*.{html,njk,md}", // Scan .njk, .md, and potentially .html in content and subdirs (like blog)
+    "./src/_config/**/*.js",          // Scan .js files in _config (for filters.js)
+    "./src/_data/**/*.js",            // Scan .js files in _data (for schema, metadata helpers)
+    "./src/content/**/*.11tydata.js", // Specifically scan Eleventy data files in content/*
+    // Add any other paths OUTSIDE of src if needed, but avoid overly broad patterns like "./**/*"
+  ],
   theme: {
     extend: {
       typography: (theme) => ({
@@ -25,5 +32,6 @@ export default {
       }),
     },
   },
+  // Consider using ESM import if your setup requires it, otherwise leave as require
   plugins: [require("@tailwindcss/typography")],
 };
