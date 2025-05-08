@@ -35,11 +35,13 @@
                 <div class="max-w-4xl mx-auto prose-sm prose text-center prose-slate prose-invert" data-sb-field-path={{ [siteConfigFilePath, ":copyrightText"] | join  }}>{{ metadata.copyrightText | markdown | safe }}</div>
             </footer>
         {% endif %}
-        <script type="text/javascript">
-          var cl = cloudinary.Cloudinary.new({
-            cloud_name: "paulapplegate-com"
-          });
-          cl.responsive();
-        </script>
     </body>
+    <script type="text/javascript">
+        my_breakpoints = function (width){
+            return 50 * Math.ceil(width / 50);
+        }
+        var cl = cloudinary.Cloudinary.new({cloud_name: "paulapplegate-com"});
+        cl.config({breakpoints:my_breakpoints, responsive_use_breakpoints:"resize"})
+        cl.responsive();
+    </script>
 </html>
