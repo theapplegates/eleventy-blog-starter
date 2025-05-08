@@ -31,6 +31,8 @@ As a UI designer with a passion for minimal and brutalist design, I’m always o
   </svg>
 </p>
 
+/c_limit,w_auto/dpr_auto/f_jxl,q_auto/
+
 ### Why Eleventy?
 
 <img src="/images/city-rain.avif" alt="City Rain">
