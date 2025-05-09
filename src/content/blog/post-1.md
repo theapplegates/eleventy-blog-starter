@@ -9,7 +9,7 @@ description: >-
 image: /images/post-1.jpeg
 ---
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.  
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_limit,w_auto/dpr_auto/p04sxwky30jsbpoyurmh.jxl"  class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/f_auto,q_auto/c_limit,w_auto/dpr_auto/p04sxwky30jsbpoyurmh.jxl"  class="cld-responsive">
 <style>
   .credit-container {
     font-size: 10px;
