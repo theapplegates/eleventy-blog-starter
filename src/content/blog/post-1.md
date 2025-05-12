@@ -10,59 +10,6 @@ image: /images/post-1.jpeg
 ---
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.  
 
-<div class="shadow-wrapper">
-<picture class="responsive-picture">
-  <source media="(min-width: 1200px)" type="image/jxl" sizes="40vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_1000/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 1000w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_991/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 1982w
-  ">
-  <source media="(min-width: 1200px)" type="image/avif" sizes="40vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_1000/v1747018304/dqiedwgsw7yo8iwkdfre.avif 1000w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_991/v1747018304/dqiedwgsw7yo8iwkdfre.avif 1982w
-  ">
-  <source media="(min-width: 1200px)" type="image/jpeg" sizes="40vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_1000/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 1000w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_991/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 1982w
-  ">
-  <source media="(min-width: 992px) and (max-width: 1199px)" type="image/jxl" sizes="60vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_994/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 994w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_915/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 1830w
-  ">
-  <source media="(min-width: 992px) and (max-width: 1199px)" type="image/avif" sizes="60vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_994/v1747018304/dqiedwgsw7yo8iwkdfre.avif 994w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_915/v1747018304/dqiedwgsw7yo8iwkdfre.avif 1830w
-  ">
-  <source media="(min-width: 992px) and (max-width: 1199px)" type="image/jpeg" sizes="60vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_994/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 994w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_915/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 1830w
-  ">
-  <source media="(min-width: 768px) and (max-width: 991px)" type="image/jxl" sizes="70vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_4:3,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_850/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 850w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_4:3,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_791/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 1582w
-  ">
-  <source media="(min-width: 768px) and (max-width: 991px)" type="image/avif" sizes="70vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_4:3,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_850/v1747018304/dqiedwgsw7yo8iwkdfre.avif 850w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_4:3,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_791/v1747018304/dqiedwgsw7yo8iwkdfre.avif 1582w
-  ">
-  <source media="(min-width: 768px) and (max-width: 991px)" type="image/jpeg" sizes="70vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_4:3,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_850/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 850w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_4:3,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_791/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 1582w
-  ">
-  <source media="(max-width: 767px)" type="image/jxl" sizes="100vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_1:1,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_306/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 306w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_1:1,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_200/v1747018304/dqiedwgsw7yo8iwkdfre.jxl 400w
-  ">
-  <source media="(max-width: 767px)" type="image/avif" sizes="100vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_1:1,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_306/v1747018304/dqiedwgsw7yo8iwkdfre.avif 306w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_1:1,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_200/v1747018304/dqiedwgsw7yo8iwkdfre.avif 400w
-  ">
-  <source media="(max-width: 767px)" type="image/jpeg" sizes="100vw" srcset="
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_1:1,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/c_scale,w_306/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 306w,
-    https://res.cloudinary.com/paulapplegate-com/image/upload/ar_1:1,c_fill/c_limit,dpr_auto,g_auto,q_auto,w_auto/dpr_2/c_scale,w_200/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg 400w
-  ">
-  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/ar_1:1,c_fill/c_fill,g_auto/c_scale,w_200/v1747018304/dqiedwgsw7yo8iwkdfre.jpeg" alt="Responsive Image" loading="lazy">
-</picture>
-</div>
 
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/f_auto,q_auto/c_limit,w_auto/dpr_auto/p04sxwky30jsbpoyurmh.jxl"  class="cld-responsive">
 <style>
