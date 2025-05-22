@@ -12,25 +12,25 @@ As a UI designer with a passion for minimal and brutalist design, I’m always o
 
 <picture>
   <source type="image/jxl"
-          srcset="https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_200/v1747915890/hntsks1rmrmj4mmbklzf.jxl 200w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_835/v1747915890/hntsks1rmrmj4mmbklzf.jxl 835w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1216/v1747915890/hntsks1rmrmj4mmbklzf.jxl 1216w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1587/v1747915890/hntsks1rmrmj4mmbklzf.jxl 1587w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1800/v1747915890/hntsks1rmrmj4mmbklzf.jxl 1800w"
+          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_200/v1747915890/hntsks1rmrmj4mmbklzf.jxl 200w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_835/v1747915890/hntsks1rmrmj4mmbklzf.jxl 835w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1216/v1747915890/hntsks1rmrmj4mmbklzf.jxl 1216w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1587/v1747915890/hntsks1rmrmj4mmbklzf.jxl 1587w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1800/v1747915890/hntsks1rmrmj4mmbklzf.jxl 1800w"
           sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 33vw">
   <source type="image/avif"
-          srcset="https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_200/v1747915890/hntsks1rmrmj4mmbklzf.avif 200w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_835/v1747915890/hntsks1rmrmj4mmbklzf.avif 835w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1216/v1747915890/hntsks1rmrmj4mmbklzf.avif 1216w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1587/v1747915890/hntsks1rmrmj4mmbklzf.avif 1587w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1800/v1747915890/hntsks1rmrmj4mmbklzf.avif 1800w"
+          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_200/v1747915890/hntsks1rmrmj4mmbklzf.avif 200w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_835/v1747915890/hntsks1rmrmj4mmbklzf.avif 835w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1216/v1747915890/hntsks1rmrmj4mmbklzf.avif 1216w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1587/v1747915890/hntsks1rmrmj4mmbklzf.avif 1587w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1800/v1747915890/hntsks1rmrmj4mmbklzf.avif 1800w"
           sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 33vw">
   <source type="image/jpeg"
-          srcset="https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_200/v1747915890/hntsks1rmrmj4mmbklzf.jpg 200w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_835/v1747915890/hntsks1rmrmj4mmbklzf.jpg 835w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1216/v1747915890/hntsks1rmrmj4mmbklzf.jpg 1216w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1587/v1747915890/hntsks1rmrmj4mmbklzf.jpg 1587w,
-       https://res.cloudinary.com/your-cloud-name/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1800/v1747915890/hntsks1rmrmj4mmbklzf.jpg 1800w"
+          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_200/v1747915890/hntsks1rmrmj4mmbklzf.jpg 200w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_835/v1747915890/hntsks1rmrmj4mmbklzf.jpg 835w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1216/v1747915890/hntsks1rmrmj4mmbklzf.jpg 1216w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1587/v1747915890/hntsks1rmrmj4mmbklzf.jpg 1587w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1800/v1747915890/hntsks1rmrmj4mmbklzf.jpg 1800w"
           sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 33vw">
   <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1747915890/hntsks1rmrmj4mmbklzf.jpg"
        alt="sung-jin"

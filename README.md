@@ -24,7 +24,7 @@ git clone https://github.com/netlify-templates/eleventy-blog-starter.git
 2. Install dependencies
 
 ```
-npm install
+  npm install
 ```
 
 3. Run Eleventy locally
