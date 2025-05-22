@@ -49,7 +49,7 @@ export default async function (eleventyConfig) {
     extensions: "html",
 
     // Output formats for each image.
-    //formats: ["jxl","avif", "jpeg", "auto"],
+    formats: ["jxl","avif", "jpeg", "auto"],
 
     //widths: [320, 640, 750, 828, 1080, 1280],
 
