@@ -1642,12 +1642,12 @@ video {
   text-transform: uppercase;
 }
 
-<<<<<<< HEAD
+
 .italic {
   font-style: italic;
 }
 
-=======
+
 
 .tracking-widest {
   letter-spacing: 0.1em;
@@ -1867,9 +1867,9 @@ html,
   -o-tab-size: 4;
   tab-size: 4;
   /* 3 */
-<<<<<<< HEAD
+
   font-family: wotfardregular;
-=======
+
   font-family: wotfard-regular-webfont;
 
   /* 4 */
@@ -2406,8 +2406,8 @@ video {
 
 .prose :where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
-<<<<<<< HEAD
-=======
+
+
   font-family: wotfard-regularitalic-webfont;
 
   font-weight: 800;
