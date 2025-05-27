@@ -10,48 +10,44 @@ image: /images/post-1.jpeg
 ---
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.  
 
-
 <picture>
+  <source type="image/jxl"
+          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_150/v1748388173/ogrpbcjavik1rawkkdlx.jxl 150w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_645/v1748388173/ogrpbcjavik1rawkkdlx.jxl 645w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_995/v1748388173/ogrpbcjavik1rawkkdlx.jxl 995w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1319/v1748388173/ogrpbcjavik1rawkkdlx.jxl 1319w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1577/v1748388173/ogrpbcjavik1rawkkdlx.jxl 1577w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_1857/v1748388173/ogrpbcjavik1rawkkdlx.jxl 1857w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_2074/v1748388173/ogrpbcjavik1rawkkdlx.jxl 2074w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jxl,g_auto,q_auto,w_2200/v1748388173/ogrpbcjavik1rawkkdlx.jxl 2200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 33vw">
   <source type="image/avif"
-          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_100/v1748365186/kae4rsqmpwgj0b75rgmo.avif 100w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_794/v1748365186/kae4rsqmpwgj0b75rgmo.avif 794w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1184/v1748365186/kae4rsqmpwgj0b75rgmo.avif 1184w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1550/v1748365186/kae4rsqmpwgj0b75rgmo.avif 1550w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1800/v1748365186/kae4rsqmpwgj0b75rgmo.avif 1800w"
+          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_150/v1748388173/ogrpbcjavik1rawkkdlx.avif 150w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_645/v1748388173/ogrpbcjavik1rawkkdlx.avif 645w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_995/v1748388173/ogrpbcjavik1rawkkdlx.avif 995w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1319/v1748388173/ogrpbcjavik1rawkkdlx.avif 1319w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1577/v1748388173/ogrpbcjavik1rawkkdlx.avif 1577w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_1857/v1748388173/ogrpbcjavik1rawkkdlx.avif 1857w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_2074/v1748388173/ogrpbcjavik1rawkkdlx.avif 2074w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_2200/v1748388173/ogrpbcjavik1rawkkdlx.avif 2200w"
           sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 33vw">
-  <source type="image/jpeg"
-          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_100/v1748365186/kae4rsqmpwgj0b75rgmo.jpg 100w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_794/v1748365186/kae4rsqmpwgj0b75rgmo.jpg 794w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1184/v1748365186/kae4rsqmpwgj0b75rgmo.jpg 1184w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1550/v1748365186/kae4rsqmpwgj0b75rgmo.jpg 1550w,
-       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1800/v1748365186/kae4rsqmpwgj0b75rgmo.jpg 1800w"
+  <source type="image/jpg"
+          srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_150/v1748388173/ogrpbcjavik1rawkkdlx.jpg 150w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_645/v1748388173/ogrpbcjavik1rawkkdlx.jpg 645w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_995/v1748388173/ogrpbcjavik1rawkkdlx.jpg 995w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1319/v1748388173/ogrpbcjavik1rawkkdlx.jpg 1319w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1577/v1748388173/ogrpbcjavik1rawkkdlx.jpg 1577w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_1857/v1748388173/ogrpbcjavik1rawkkdlx.jpg 1857w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_2074/v1748388173/ogrpbcjavik1rawkkdlx.jpg 2074w,
+       https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_jpg,g_auto,q_auto,w_2200/v1748388173/ogrpbcjavik1rawkkdlx.jpg 2200w"
           sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 33vw">
-  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1748365186/kae4rsqmpwgj0b75rgmo.jxl"
-       alt="sung-jin"
+  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1748388173/ogrpbcjavik1rawkkdlx.jxl"
+       alt="yekjwte8pjni3j007fn2"
        loading="lazy"
-       width="5301"
-       height="7965">
+       width="7008"
+       height="4672">
 </picture>
-<style>
-  .credit-container {
-    font-size: 10px;
-    font-style: italic;
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  .icon {
-    width: 1em;
-    height: 1em;
-    margin-left: 0.25em;
-  }
-</style>
-<p class="credit-container">
-  <em>Photo by <a href="https://unsplash.com/photos/an-orange-cat-sits-on-a-reflective-floor-P_tpT-ee__s?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash">Tianlei Wu</a> on</em>
-  <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-    <path d="M448,230.17V480H0V230.17H141.13V355.09H306.87V230.17ZM306.87,32H141.13V156.91H306.87Z"/>
-  </svg>
-</p>
+
 
 
 ### Why Eleventy?
