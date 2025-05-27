@@ -34,7 +34,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/css/");
 
   // Watch content images for the image pipeline.
-  eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
+  eleventyConfig.addWatchTarget("content/**/*.{svg,avif,png,jxl,jpeg}");
 
   // Official plugins
   eleventyConfig.addPlugin(pluginSyntaxHighlight, {
@@ -51,7 +51,7 @@ export default async function (eleventyConfig) {
     // Output formats for each image.
     formats: ["jxl","avif", "jpeg", "auto"],
 
-    //widths: [320, 640, 750, 828, 1080, 1280],
+    //widths: [320, 640, 750, 828, 1080, 1280, 2200],
 
     defaultAttributes: {
       // e.g. <img loading decoding> assigned on the HTML tag will override these values.
