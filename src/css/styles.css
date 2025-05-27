@@ -160,7 +160,7 @@ html,
   /* 3 */
 
   font-family: wotfardregular;
-=======
+
   font-family: wotfard-regular-webfont;
 
   /* 4 */
@@ -698,7 +698,7 @@ video {
 .prose :where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
 
-=======
+
   font-family: wotfard-regularitalic-webfont;
 
   font-weight: 800;
