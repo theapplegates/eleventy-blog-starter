@@ -1642,10 +1642,6 @@ video {
   text-transform: uppercase;
 }
 
-.italic {
-  font-style: italic;
-}
-
 .tracking-widest {
   letter-spacing: 0.1em;
 }
