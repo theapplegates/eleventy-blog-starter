@@ -10,7 +10,7 @@ image: /images/post-1.jpeg
 ---
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.  
 
-<<<<<<< HEAD
+
 <picture>
   <source type="image/avif"
           srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,f_avif,g_auto,q_auto,w_100/v1748365186/kae4rsqmpwgj0b75rgmo.avif 100w,
@@ -101,10 +101,9 @@ As a UI designer with a passion for minimal and brutalist design, I’m always o
   </svg>
 </p>
 
-=======
+
 ### Why Eleventy?
 
->>>>>>> main
 Eleventy (or 11ty) is a simple yet powerful static site generator. It takes plain text files (like Markdown, HTML, or Nunjucks) and transforms them into a fully static website. It’s minimal, fast, and highly customizable — a perfect fit for those of us who appreciate clean, no-frills design.
 
 <!--more-->
@@ -188,8 +187,5 @@ With this setup, every commit triggers a fresh build, and your site goes live au
 ### Conclusion 
 If you love fast, minimalist design and hate unnecessary complexity, **Eleventy + Netlify** is a dream team. Eleventy gives you the creative freedom to design without limits, and Netlify makes sure it’s always live and fast.  
 
-<<<<<<< HEAD
 If you’re a fan of brutalist design, simplicity, and speed (like I am), this setup is a no-brainer. Ready to build your next site? Get started with [Eleventy](https://www.11ty.dev/) and [Netlify](https://www.netlify.com/) today.  
-=======
-If you’re a fan of brutalist design, simplicity, and speed (like I am), this setup is a no-brainer. Ready to build your next site? Get started with [Eleventy](https://www.11ty.dev/) and [Netlify](https://www.netlify.com/) today.  
->>>>>>> main
+
