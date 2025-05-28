@@ -158,7 +158,7 @@ html,
   -o-tab-size: 4;
 	 tab-size: 4;
   /* 3 */
-  font-family: wotfardregular;
+  font-family: wotfard-regular-webfont;
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -247,7 +247,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: wotfardlight;
+  font-family: wotfard-light-webfont;
   /* 1 */
   font-feature-settings: normal;
   /* 2 */
@@ -311,7 +311,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: wotfardlight;
+  font-family: wotfard-light-webfont;
   /* 1 */
   font-feature-settings: inherit;
   /* 1 */
@@ -764,7 +764,7 @@ video {
 
 .prose :where(kbd):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   font-weight: 500;
-  font-family: wotfardregular;
+  font-family: wotfard-regular-webfont;
   color: var(--tw-prose-kbd);
   box-shadow: 0 0 0 1px rgb(var(--tw-prose-kbd-shadows) / 10%), 0 3px 0 rgb(var(--tw-prose-kbd-shadows) / 10%);
   font-size: 0.875em;
@@ -842,7 +842,7 @@ video {
   padding: 0;
   font-weight: inherit;
   color: inherit;
-  font-size: wotfardlight;
+  font-size: wotfard-light-webfont;
   font-family: inherit;
   line-height: inherit;
 }

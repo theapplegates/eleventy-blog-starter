@@ -1642,13 +1642,6 @@ video {
   text-transform: uppercase;
 }
 
-
-.italic {
-  font-style: italic;
-}
-
-
-
 .tracking-widest {
   letter-spacing: 0.1em;
 }
@@ -1867,11 +1860,8 @@ html,
   -o-tab-size: 4;
   tab-size: 4;
   /* 3 */
-
   font-family: wotfardregular;
-
   font-family: wotfard-regular-webfont;
-
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -2406,10 +2396,7 @@ video {
 
 .prose :where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
-
-
   font-family: wotfard-regularitalic-webfont;
-
   font-weight: 800;
   font-size: 2.25em;
   margin-top: 0;

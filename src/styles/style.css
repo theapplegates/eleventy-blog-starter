@@ -158,7 +158,7 @@ html,
   -o-tab-size: 4;
 	 tab-size: 4;
   /* 3 */
-  font-family: wotfardregular;
+  font-family: wotfard-regular-webfont;
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -176,7 +176,7 @@ html,
 body {
 
 
-  font-family: wotfardregular;
+  font-family: wotfard-regular-webfont;
 
   margin: 0;
   /* 1 */
@@ -193,7 +193,7 @@ body {
 hr {
 
 
-  font-family: wotfarditalic;
+  font-family: wotfard-regularitalic-webfont;
 
   height: 0;
   /* 1 */
@@ -222,6 +222,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: wotfard-regularitalic-webfont;
   font-size: inherit;
   font-weight: inherit;
 }
@@ -255,7 +256,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: wotfardlight;
+  font-family: wotfard-lightitalic-webfont;
   /* 1 */
   font-feature-settings: normal;
   /* 2 */
@@ -290,6 +291,7 @@ sub {
 }
 
 sup {
+  font-family: wotfard-extralight-webfont;
   top: -0.5em;
 }
 
@@ -319,7 +321,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: wotfardlight;
+  font-family: wotfard-light-webfont;
   /* 1 */
   font-feature-settings: inherit;
   /* 1 */
