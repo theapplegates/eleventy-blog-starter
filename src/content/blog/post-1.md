@@ -8,6 +8,7 @@ description: >-
   your content!
 image: /images/post-1.jpeg
 ---
+<<<<<<< HEAD
     <script src="https://unpkg.com/cloudinary-core@latest/cloudinary-core-shrinkwrap.js" type="text/javascript">
     </script>
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_jxl,q_auto/v1746629777/rjru7vldm8lcxffuoewq.jxl" class="cld-responsive">
@@ -27,6 +28,66 @@ image: /images/post-1.jpeg
   
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites. 
  
+=======
+<picture class="responsive-picture">
+  <source media="(min-width: 1200px)" type="image/avif" srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_400/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 400w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_600/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_600/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_800/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 800w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_800/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1200/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1200/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 2400w
+  " sizes="40vw"/>
+  <source media="(min-width: 1200px)" type="image/webp" srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_400/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 400w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_600/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_600/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_800/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 800w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_800/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1200/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1200/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 2400w
+  " sizes="40vw"/>
+  <source media="(min-width: 768px)" type="image/avif" srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_400/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 400w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_600/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_600/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_800/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 800w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_800/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_1200/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_1200/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 2400w
+  " sizes="70vw"/>
+  <source media="(min-width: 768px)" type="image/webp" srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_400/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 400w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_600/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_600/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_800/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 800w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_800/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_1200/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_4:3/c_scale,w_1200/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 2400w
+  " sizes="70vw"/>
+  <source media="(max-width: 767px)" type="image/avif" srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_400/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 400w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_600/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_600/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_800/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 800w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_800/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_1200/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.avif 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_1200/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.avif 2400w
+  " sizes="100vw"/>
+  <source media="(max-width: 767px)" type="image/webp" srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_400/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 400w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_600/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_600/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_800/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 800w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_800/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1600w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_1200/dpr_1.0/v1748896683/ubgwquceq9jttutu5u6f.webp 1200w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,ar_1:1/c_scale,w_1200/dpr_2.0/v1748896683/ubgwquceq9jttutu5u6f.webp 2400w
+  " sizes="100vw"/>
+  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_600/v1748896683/ubgwquceq9jttutu5u6f.jpg" alt="Responsive Image" loading="lazy" />
+</picture>
+As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.  
+>>>>>>> main
 
 ### Why Eleventy?
 
