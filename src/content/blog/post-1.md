@@ -9,7 +9,31 @@ description: >-
 image: /images/post-1.jpeg
 ---
   
-
+<picture>
+  <source type="image/jxl"
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_1920/v1748983509/product-hero-image_simple_jxl.jxl 1920w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_1904/v1748983509/product-hero-image_simple_jxl.jxl 1904w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_1883/v1748983509/product-hero-image_simple_jxl.jxl 1883w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_1742/v1748983509/product-hero-image_simple_jxl.jxl 1742w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_1603/v1748983509/product-hero-image_simple_jxl.jxl 1603w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_1398/v1748983509/product-hero-image_simple_jxl.jxl 1398w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_1195/v1748983509/product-hero-image_simple_jxl.jxl 1195w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_971/v1748983509/product-hero-image_simple_jxl.jxl 971w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_663/v1748983509/product-hero-image_simple_jxl.jxl 663w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jxl,q_auto/c_scale,w_200/v1748983509/product-hero-image_simple_jxl.jxl 200w">
+  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_200/v1748983555/product-hero-image_simple_jpg.jpg"
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_1920/v1748983555/product-hero-image_simple_jpg.jpg 1920w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_1915/v1748983555/product-hero-image_simple_jpg.jpg 1915w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_1833/v1748983555/product-hero-image_simple_jpg.jpg 1833w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_1744/v1748983555/product-hero-image_simple_jpg.jpg 1744w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_1360/v1748983555/product-hero-image_simple_jpg.jpg 1360w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_1402/v1748983555/product-hero-image_simple_jpg.jpg 1402w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_712/v1748983555/product-hero-image_simple_jpg.jpg 712w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/f_jpg,q_auto/c_scale,w_200/v1748983555/product-hero-image_simple_jpg.jpg 200w"
+    sizes="(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw" 
+    alt="product-hero-image_simple_jpg"
+    loading="lazy">
+</picture>
   
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites. 
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.  
