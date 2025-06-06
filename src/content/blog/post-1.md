@@ -10,7 +10,7 @@ image: /images/post-1.jpeg
 ---
 <script src="https://unpkg.com/cloudinary-core@latest/cloudinary-core-shrinkwrap.js" type="text/javascript">
 </script>
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/f_jxl,q_auto/v1748952359/priey9txfokhpkfl60le.jpg"
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/f_auto,q_auto/v1748952359/priey9txfokhpkfl60le.jpg"
 class="cld-responsive">
 <script type="text/javascript">
   var cl = cloudinary.Cloudinary.new({
