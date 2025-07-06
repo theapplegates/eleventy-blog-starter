@@ -9,13 +9,6 @@ description: >-
 image: /images/post-1.jpeg
 ---
 <picture>
-	<source type="image/jxl" 
-			srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/w_2100,f_jxl/v1751387966/dsmivtdwnrur6ria0mml.jxl 2100w,
-		https://res.cloudinary.com/paulapplegate-com/image/upload/w_1680,f_jxl/v1751387966/dsmivtdwnrur6ria0mml.jxl 1680w,
-		https://res.cloudinary.com/paulapplegate-com/image/upload/w_1344,f_jxl/v1751387966/dsmivtdwnrur6ria0mml.jxl 1344w,
-		https://res.cloudinary.com/paulapplegate-com/image/upload/w_1075,f_jxl/v1751387966/dsmivtdwnrur6ria0mml.jxl 1075w,
-		https://res.cloudinary.com/paulapplegate-com/image/upload/w_860,f_jxl/v1751387966/dsmivtdwnrur6ria0mml.jxl 860w"
-			sizes="(max-width: 2100px) 2100px, (max-width: 1680px) 1680px, (max-width: 1344px) 1344px, (max-width: 1075px) 1075px, 860px">
 	<source type="image/avif" 
 			srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/w_2100,f_avif/v1751387966/dsmivtdwnrur6ria0mml.avif 2100w,
 		https://res.cloudinary.com/paulapplegate-com/image/upload/w_1680,f_avif/v1751387966/dsmivtdwnrur6ria0mml.avif 1680w,
