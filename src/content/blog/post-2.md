@@ -78,4 +78,51 @@ Eleventy’s **simplicity**, **flexibility**, and **performance optimizations** 
 
 If you’re looking for a static site generator that offers **complete control**, **speed**, and **easy configuration**, Eleventy is an excellent choice. Plus, with its seamless integration with platforms like Netlify, you can deploy your site with just a few clicks!
 
+<picture>
+  <source 
+    type="image/jxl" 
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_50/v1766700487/g4l6cdoghubjuqcecn4x.jxl 50w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_566/v1766700487/g4l6cdoghubjuqcecn4x.jxl 566w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1286/v1766700487/g4l6cdoghubjuqcecn4x.jxl 1286w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1315/v1766700487/g4l6cdoghubjuqcecn4x.jxl 1315w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1467/v1766700487/g4l6cdoghubjuqcecn4x.jxl 1467w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1786/v1766700487/g4l6cdoghubjuqcecn4x.jxl 1786w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1979/v1766700487/g4l6cdoghubjuqcecn4x.jxl 1979w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_2000/v1766700487/g4l6cdoghubjuqcecn4x.jxl 2000w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_2904/v1766700487/g4l6cdoghubjuqcecn4x.jxl 2904w" 
+    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 800px" 
+  />
+  <source 
+    type="image/avif" 
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_50/v1766700487/g4l6cdoghubjuqcecn4x.avif 50w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_566/v1766700487/g4l6cdoghubjuqcecn4x.avif 566w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1286/v1766700487/g4l6cdoghubjuqcecn4x.avif 1286w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1315/v1766700487/g4l6cdoghubjuqcecn4x.avif 1315w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1467/v1766700487/g4l6cdoghubjuqcecn4x.avif 1467w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1786/v1766700487/g4l6cdoghubjuqcecn4x.avif 1786w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1979/v1766700487/g4l6cdoghubjuqcecn4x.avif 1979w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_2000/v1766700487/g4l6cdoghubjuqcecn4x.avif 2000w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_2904/v1766700487/g4l6cdoghubjuqcecn4x.avif 2904w" 
+    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 800px" 
+  />
+  <img 
+    src="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_800/v1766700487/g4l6cdoghubjuqcecn4x.jpg"
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_50/v1766700487/g4l6cdoghubjuqcecn4x.jpg 50w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_566/v1766700487/g4l6cdoghubjuqcecn4x.jpg 566w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_1286/v1766700487/g4l6cdoghubjuqcecn4x.jpg 1286w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_1315/v1766700487/g4l6cdoghubjuqcecn4x.jpg 1315w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_1467/v1766700487/g4l6cdoghubjuqcecn4x.jpg 1467w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_1786/v1766700487/g4l6cdoghubjuqcecn4x.jpg 1786w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_1979/v1766700487/g4l6cdoghubjuqcecn4x.jpg 1979w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_2000/v1766700487/g4l6cdoghubjuqcecn4x.jpg 2000w,
+      https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jpg/c_scale,w_2904/v1766700487/g4l6cdoghubjuqcecn4x.jpg 2904w"
+    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="A responsive image uploaded to Cloudinary"
+    loading="lazy"
+    width="2904"
+    height="1537"
+    class="w-full h-auto rounded-lg shadow-lg"
+  />
+</picture>
+
 Give Eleventy a try and see how it can transform your website development process.
